@@ -1,0 +1,15 @@
+C:\Projetos\AppValidaCpf\AppValidaCpf\bin\Debug\net6.0\AppValidaCpf.exe
+C:\Projetos\AppValidaCpf\AppValidaCpf\bin\Debug\net6.0\AppValidaCpf.deps.json
+C:\Projetos\AppValidaCpf\AppValidaCpf\bin\Debug\net6.0\AppValidaCpf.runtimeconfig.json
+C:\Projetos\AppValidaCpf\AppValidaCpf\bin\Debug\net6.0\AppValidaCpf.dll
+C:\Projetos\AppValidaCpf\AppValidaCpf\bin\Debug\net6.0\AppValidaCpf.pdb
+C:\Projetos\AppValidaCpf\AppValidaCpf\obj\Debug\net6.0\AppValidaCpf.csproj.AssemblyReference.cache
+C:\Projetos\AppValidaCpf\AppValidaCpf\obj\Debug\net6.0\AppValidaCpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AppValidaCpf\AppValidaCpf\obj\Debug\net6.0\AppValidaCpf.AssemblyInfoInputs.cache
+C:\Projetos\AppValidaCpf\AppValidaCpf\obj\Debug\net6.0\AppValidaCpf.AssemblyInfo.cs
+C:\Projetos\AppValidaCpf\AppValidaCpf\obj\Debug\net6.0\AppValidaCpf.csproj.CoreCompileInputs.cache
+C:\Projetos\AppValidaCpf\AppValidaCpf\obj\Debug\net6.0\AppValidaCpf.dll
+C:\Projetos\AppValidaCpf\AppValidaCpf\obj\Debug\net6.0\refint\AppValidaCpf.dll
+C:\Projetos\AppValidaCpf\AppValidaCpf\obj\Debug\net6.0\AppValidaCpf.pdb
+C:\Projetos\AppValidaCpf\AppValidaCpf\obj\Debug\net6.0\AppValidaCpf.genruntimeconfig.cache
+C:\Projetos\AppValidaCpf\AppValidaCpf\obj\Debug\net6.0\ref\AppValidaCpf.dll
