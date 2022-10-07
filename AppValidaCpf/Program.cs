@@ -1,4 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using System.Text.RegularExpressions;
+
 Console.Write("Digite o CPF para validação: ");
 string cpf = Console.ReadLine();
 
